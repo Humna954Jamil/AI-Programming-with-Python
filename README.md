@@ -19,3 +19,13 @@ Using Python, I will:
 2. Assess the accuracy of the best-performing model in correctly identifying dog breeds.
 
 3. Measure and compare the execution time of different classification algorithms, understanding the trade-off between accuracy and computational efficiency.
+# Project 2 - Image Classifier for Flowers
+
+In this project, I am building an image classifier capable of recognizing different flower species. This deep learning model can be integrated into applications, such as a mobile app that identifies flowers using a camera. The model will be trained using a dataset of 102 flower categories and later exported for use in real-world applications.
+
+**Project Steps:**
+1. Load and preprocess the dataset
+
+2. Train a deep learning classifier
+
+3. Use the trained model for image prediction
